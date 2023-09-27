@@ -1,5 +1,6 @@
 {
   "name": "todo",
+  "homepage":"https://Ritwik214.github.io/Todo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
